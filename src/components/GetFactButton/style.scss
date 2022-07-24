@@ -1,0 +1,12 @@
+@keyframes get-fact-btn-animation {
+  0% {
+    opacity: 100%;
+  }
+  100% {
+    opacity: 0%;
+  }
+}
+
+.get-fact-btn {
+  animation: get-fact-btn-animation 0.5s alternate infinite;
+}
