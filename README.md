@@ -2,6 +2,8 @@
 
 This is powered by Cat Facts, the goal of creating this project is to use HOC for web app development. This is a simple web app that will display cat facts.
 
+you can see the live demo [here](https://project-cat-facts-app.vercel.app/)
+
 ## Install Locally
 
 Install with with npm
